@@ -1,0 +1,7 @@
+{
+  "package_name": "yolov8_obb_msgs",
+  "non_idl_tuples": [
+    "/home/nithish/ROS/moveit2_ws/src/yolov8_obb_msgs:msg/InferenceResult.msg",
+    "/home/nithish/ROS/moveit2_ws/src/yolov8_obb_msgs:msg/Yolov8Inference.msg"
+  ]
+}

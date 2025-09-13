@@ -1,0 +1,25 @@
+[0.017s] Invoking command in '/home/nithish/ROS/moveit2_ws/build/hello_moveit': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/jazzy DEBUGINFOD_URLS=https://debuginfod.ubuntu.com /usr/bin/cmake --build /home/nithish/ROS/moveit2_ws/build/hello_moveit -- -j8 -l8
+[0.119s] [ 50%] [32mBuilding CXX object CMakeFiles/hello_moveit.dir/src/hello_moveit.cpp.o[0m
+[16.788s] [100%] [32m[1mLinking CXX executable hello_moveit[0m
+[17.760s] [100%] Built target hello_moveit
+[17.781s] Invoked command in '/home/nithish/ROS/moveit2_ws/build/hello_moveit' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/jazzy DEBUGINFOD_URLS=https://debuginfod.ubuntu.com /usr/bin/cmake --build /home/nithish/ROS/moveit2_ws/build/hello_moveit -- -j8 -l8
+[17.799s] Invoking command in '/home/nithish/ROS/moveit2_ws/build/hello_moveit': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/jazzy DEBUGINFOD_URLS=https://debuginfod.ubuntu.com /usr/bin/cmake --install /home/nithish/ROS/moveit2_ws/build/hello_moveit
+[17.811s] -- Install configuration: "Debug"
+[17.813s] -- Installing: /home/nithish/ROS/moveit2_ws/install/hello_moveit/lib/hello_moveit/hello_moveit
+[17.818s] -- Set non-toolchain portion of runtime path of "/home/nithish/ROS/moveit2_ws/install/hello_moveit/lib/hello_moveit/hello_moveit" to ""
+[17.818s] -- Up-to-date: /home/nithish/ROS/moveit2_ws/install/hello_moveit/share/ament_index/resource_index/package_run_dependencies/hello_moveit
+[17.818s] -- Up-to-date: /home/nithish/ROS/moveit2_ws/install/hello_moveit/share/ament_index/resource_index/parent_prefix_path/hello_moveit
+[17.818s] -- Up-to-date: /home/nithish/ROS/moveit2_ws/install/hello_moveit/share/hello_moveit/environment/ament_prefix_path.sh
+[17.818s] -- Up-to-date: /home/nithish/ROS/moveit2_ws/install/hello_moveit/share/hello_moveit/environment/ament_prefix_path.dsv
+[17.819s] -- Up-to-date: /home/nithish/ROS/moveit2_ws/install/hello_moveit/share/hello_moveit/environment/path.sh
+[17.819s] -- Up-to-date: /home/nithish/ROS/moveit2_ws/install/hello_moveit/share/hello_moveit/environment/path.dsv
+[17.819s] -- Up-to-date: /home/nithish/ROS/moveit2_ws/install/hello_moveit/share/hello_moveit/local_setup.bash
+[17.819s] -- Up-to-date: /home/nithish/ROS/moveit2_ws/install/hello_moveit/share/hello_moveit/local_setup.sh
+[17.819s] -- Up-to-date: /home/nithish/ROS/moveit2_ws/install/hello_moveit/share/hello_moveit/local_setup.zsh
+[17.819s] -- Up-to-date: /home/nithish/ROS/moveit2_ws/install/hello_moveit/share/hello_moveit/local_setup.dsv
+[17.819s] -- Installing: /home/nithish/ROS/moveit2_ws/install/hello_moveit/share/hello_moveit/package.dsv
+[17.820s] -- Up-to-date: /home/nithish/ROS/moveit2_ws/install/hello_moveit/share/ament_index/resource_index/packages/hello_moveit
+[17.820s] -- Up-to-date: /home/nithish/ROS/moveit2_ws/install/hello_moveit/share/hello_moveit/cmake/hello_moveitConfig.cmake
+[17.820s] -- Up-to-date: /home/nithish/ROS/moveit2_ws/install/hello_moveit/share/hello_moveit/cmake/hello_moveitConfig-version.cmake
+[17.820s] -- Up-to-date: /home/nithish/ROS/moveit2_ws/install/hello_moveit/share/hello_moveit/package.xml
+[17.821s] Invoked command in '/home/nithish/ROS/moveit2_ws/build/hello_moveit' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/jazzy DEBUGINFOD_URLS=https://debuginfod.ubuntu.com /usr/bin/cmake --install /home/nithish/ROS/moveit2_ws/build/hello_moveit

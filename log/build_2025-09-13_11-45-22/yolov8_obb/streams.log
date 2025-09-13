@@ -1,0 +1,29 @@
+[0.020s] Invoking command in '/home/nithish/ROS/moveit2_ws/build/yolov8_obb': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/jazzy DEBUGINFOD_URLS=https://debuginfod.ubuntu.com /usr/bin/cmake --build /home/nithish/ROS/moveit2_ws/build/yolov8_obb -- -j8 -l8
+[0.074s] Invoked command in '/home/nithish/ROS/moveit2_ws/build/yolov8_obb' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/jazzy DEBUGINFOD_URLS=https://debuginfod.ubuntu.com /usr/bin/cmake --build /home/nithish/ROS/moveit2_ws/build/yolov8_obb -- -j8 -l8
+[0.075s] Invoking command in '/home/nithish/ROS/moveit2_ws/build/yolov8_obb': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/jazzy DEBUGINFOD_URLS=https://debuginfod.ubuntu.com /usr/bin/cmake --install /home/nithish/ROS/moveit2_ws/build/yolov8_obb
+[0.100s] -- Install configuration: ""
+[0.100s] -- Up-to-date: /home/nithish/ROS/moveit2_ws/install/yolov8_obb/share/yolov8_obb//scripts
+[0.100s] -- Up-to-date: /home/nithish/ROS/moveit2_ws/install/yolov8_obb/share/yolov8_obb//scripts/yolov8_obb_publisher.py
+[0.100s] -- Up-to-date: /home/nithish/ROS/moveit2_ws/install/yolov8_obb/share/yolov8_obb//scripts/yolov8_obb_subscriber.py
+[0.100s] -- Up-to-date: /home/nithish/ROS/moveit2_ws/install/yolov8_obb/share/yolov8_obb//scripts/best.pt
+[0.100s] -- Up-to-date: /home/nithish/ROS/moveit2_ws/install/yolov8_obb/share/yolov8_obb//launch
+[0.100s] -- Up-to-date: /home/nithish/ROS/moveit2_ws/install/yolov8_obb/share/yolov8_obb//launch/yolov8_obb.launch.py
+[0.100s] -- Up-to-date: /home/nithish/ROS/moveit2_ws/install/yolov8_obb/lib/yolov8_obb/yolov8_obb_publisher.py
+[0.100s] -- Up-to-date: /home/nithish/ROS/moveit2_ws/install/yolov8_obb/lib/yolov8_obb/yolov8_obb_subscriber.py
+[0.101s] -- Up-to-date: /home/nithish/ROS/moveit2_ws/install/yolov8_obb/lib/yolov8_obb/yolov8_obb.launch.py
+[0.101s] -- Up-to-date: /home/nithish/ROS/moveit2_ws/install/yolov8_obb/share/ament_index/resource_index/package_run_dependencies/yolov8_obb
+[0.101s] -- Up-to-date: /home/nithish/ROS/moveit2_ws/install/yolov8_obb/share/ament_index/resource_index/parent_prefix_path/yolov8_obb
+[0.101s] -- Up-to-date: /home/nithish/ROS/moveit2_ws/install/yolov8_obb/share/yolov8_obb/environment/ament_prefix_path.sh
+[0.101s] -- Up-to-date: /home/nithish/ROS/moveit2_ws/install/yolov8_obb/share/yolov8_obb/environment/ament_prefix_path.dsv
+[0.101s] -- Up-to-date: /home/nithish/ROS/moveit2_ws/install/yolov8_obb/share/yolov8_obb/environment/path.sh
+[0.101s] -- Up-to-date: /home/nithish/ROS/moveit2_ws/install/yolov8_obb/share/yolov8_obb/environment/path.dsv
+[0.103s] -- Up-to-date: /home/nithish/ROS/moveit2_ws/install/yolov8_obb/share/yolov8_obb/local_setup.bash
+[0.103s] -- Up-to-date: /home/nithish/ROS/moveit2_ws/install/yolov8_obb/share/yolov8_obb/local_setup.sh
+[0.103s] -- Up-to-date: /home/nithish/ROS/moveit2_ws/install/yolov8_obb/share/yolov8_obb/local_setup.zsh
+[0.103s] -- Up-to-date: /home/nithish/ROS/moveit2_ws/install/yolov8_obb/share/yolov8_obb/local_setup.dsv
+[0.103s] -- Installing: /home/nithish/ROS/moveit2_ws/install/yolov8_obb/share/yolov8_obb/package.dsv
+[0.103s] -- Up-to-date: /home/nithish/ROS/moveit2_ws/install/yolov8_obb/share/ament_index/resource_index/packages/yolov8_obb
+[0.103s] -- Up-to-date: /home/nithish/ROS/moveit2_ws/install/yolov8_obb/share/yolov8_obb/cmake/yolov8_obbConfig.cmake
+[0.103s] -- Up-to-date: /home/nithish/ROS/moveit2_ws/install/yolov8_obb/share/yolov8_obb/cmake/yolov8_obbConfig-version.cmake
+[0.103s] -- Up-to-date: /home/nithish/ROS/moveit2_ws/install/yolov8_obb/share/yolov8_obb/package.xml
+[0.152s] Invoked command in '/home/nithish/ROS/moveit2_ws/build/yolov8_obb' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/jazzy DEBUGINFOD_URLS=https://debuginfod.ubuntu.com /usr/bin/cmake --install /home/nithish/ROS/moveit2_ws/build/yolov8_obb

@@ -1,0 +1,17 @@
+/home/nithish/ROS/moveit2_ws/install/moveit2_controller/share/moveit2_controller/config/ros2_controllers.yaml
+/home/nithish/ROS/moveit2_ws/install/moveit2_controller/share/moveit2_controller/launch/controller.launch.py
+/home/nithish/ROS/moveit2_ws/install/moveit2_controller/share/ament_index/resource_index/package_run_dependencies/moveit2_controller
+/home/nithish/ROS/moveit2_ws/install/moveit2_controller/share/ament_index/resource_index/parent_prefix_path/moveit2_controller
+/home/nithish/ROS/moveit2_ws/install/moveit2_controller/share/moveit2_controller/environment/ament_prefix_path.sh
+/home/nithish/ROS/moveit2_ws/install/moveit2_controller/share/moveit2_controller/environment/ament_prefix_path.dsv
+/home/nithish/ROS/moveit2_ws/install/moveit2_controller/share/moveit2_controller/environment/path.sh
+/home/nithish/ROS/moveit2_ws/install/moveit2_controller/share/moveit2_controller/environment/path.dsv
+/home/nithish/ROS/moveit2_ws/install/moveit2_controller/share/moveit2_controller/local_setup.bash
+/home/nithish/ROS/moveit2_ws/install/moveit2_controller/share/moveit2_controller/local_setup.sh
+/home/nithish/ROS/moveit2_ws/install/moveit2_controller/share/moveit2_controller/local_setup.zsh
+/home/nithish/ROS/moveit2_ws/install/moveit2_controller/share/moveit2_controller/local_setup.dsv
+/home/nithish/ROS/moveit2_ws/install/moveit2_controller/share/moveit2_controller/package.dsv
+/home/nithish/ROS/moveit2_ws/install/moveit2_controller/share/ament_index/resource_index/packages/moveit2_controller
+/home/nithish/ROS/moveit2_ws/install/moveit2_controller/share/moveit2_controller/cmake/moveit2_controllerConfig.cmake
+/home/nithish/ROS/moveit2_ws/install/moveit2_controller/share/moveit2_controller/cmake/moveit2_controllerConfig-version.cmake
+/home/nithish/ROS/moveit2_ws/install/moveit2_controller/share/moveit2_controller/package.xml

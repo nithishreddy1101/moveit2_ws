@@ -1,0 +1,122 @@
+[0.027s] Invoking command in '/home/nithish/ROS/moveit2_ws/build/moveit2_description': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/jazzy DEBUGINFOD_URLS=https://debuginfod.ubuntu.com /usr/bin/cmake --build /home/nithish/ROS/moveit2_ws/build/moveit2_description -- -j8 -l8
+[0.080s] Invoked command in '/home/nithish/ROS/moveit2_ws/build/moveit2_description' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/jazzy DEBUGINFOD_URLS=https://debuginfod.ubuntu.com /usr/bin/cmake --build /home/nithish/ROS/moveit2_ws/build/moveit2_description -- -j8 -l8
+[0.081s] Invoking command in '/home/nithish/ROS/moveit2_ws/build/moveit2_description': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/jazzy DEBUGINFOD_URLS=https://debuginfod.ubuntu.com /usr/bin/cmake --install /home/nithish/ROS/moveit2_ws/build/moveit2_description
+[0.093s] -- Install configuration: ""
+[0.095s] -- Up-to-date: /home/nithish/ROS/moveit2_ws/install/moveit2_description/share/moveit2_description/meshes
+[0.095s] -- Up-to-date: /home/nithish/ROS/moveit2_ws/install/moveit2_description/share/moveit2_description/meshes/visual
+[0.097s] -- Up-to-date: /home/nithish/ROS/moveit2_ws/install/moveit2_description/share/moveit2_description/meshes/visual/hand.dae
+[0.097s] -- Up-to-date: /home/nithish/ROS/moveit2_ws/install/moveit2_description/share/moveit2_description/meshes/visual/link0.dae
+[0.097s] -- Up-to-date: /home/nithish/ROS/moveit2_ws/install/moveit2_description/share/moveit2_description/meshes/visual/link6.dae
+[0.097s] -- Up-to-date: /home/nithish/ROS/moveit2_ws/install/moveit2_description/share/moveit2_description/meshes/visual/link3.dae
+[0.098s] -- Up-to-date: /home/nithish/ROS/moveit2_ws/install/moveit2_description/share/moveit2_description/meshes/visual/link5.dae
+[0.098s] -- Up-to-date: /home/nithish/ROS/moveit2_ws/install/moveit2_description/share/moveit2_description/meshes/visual/finger.dae
+[0.099s] -- Up-to-date: /home/nithish/ROS/moveit2_ws/install/moveit2_description/share/moveit2_description/meshes/visual/finger_old.dae
+[0.099s] -- Up-to-date: /home/nithish/ROS/moveit2_ws/install/moveit2_description/share/moveit2_description/meshes/visual/link4.dae
+[0.099s] -- Up-to-date: /home/nithish/ROS/moveit2_ws/install/moveit2_description/share/moveit2_description/meshes/visual/link7.dae
+[0.099s] -- Up-to-date: /home/nithish/ROS/moveit2_ws/install/moveit2_description/share/moveit2_description/meshes/visual/link2.dae
+[0.099s] -- Up-to-date: /home/nithish/ROS/moveit2_ws/install/moveit2_description/share/moveit2_description/meshes/visual/camera.dae
+[0.099s] -- Up-to-date: /home/nithish/ROS/moveit2_ws/install/moveit2_description/share/moveit2_description/meshes/visual/link1.dae
+[0.099s] -- Up-to-date: /home/nithish/ROS/moveit2_ws/install/moveit2_description/share/moveit2_description/meshes/collision
+[0.099s] -- Up-to-date: /home/nithish/ROS/moveit2_ws/install/moveit2_description/share/moveit2_description/meshes/collision/link6.stl
+[0.099s] -- Up-to-date: /home/nithish/ROS/moveit2_ws/install/moveit2_description/share/moveit2_description/meshes/collision/link1.stl
+[0.100s] -- Up-to-date: /home/nithish/ROS/moveit2_ws/install/moveit2_description/share/moveit2_description/meshes/collision/finger.stl
+[0.100s] -- Up-to-date: /home/nithish/ROS/moveit2_ws/install/moveit2_description/share/moveit2_description/meshes/collision/link3.stl
+[0.101s] -- Up-to-date: /home/nithish/ROS/moveit2_ws/install/moveit2_description/share/moveit2_description/meshes/collision/finger_old.stl
+[0.101s] -- Up-to-date: /home/nithish/ROS/moveit2_ws/install/moveit2_description/share/moveit2_description/meshes/collision/link2.stl
+[0.101s] -- Up-to-date: /home/nithish/ROS/moveit2_ws/install/moveit2_description/share/moveit2_description/meshes/collision/link0.stl
+[0.101s] -- Up-to-date: /home/nithish/ROS/moveit2_ws/install/moveit2_description/share/moveit2_description/meshes/collision/link5.stl
+[0.101s] -- Up-to-date: /home/nithish/ROS/moveit2_ws/install/moveit2_description/share/moveit2_description/meshes/collision/hand.stl
+[0.101s] -- Up-to-date: /home/nithish/ROS/moveit2_ws/install/moveit2_description/share/moveit2_description/meshes/collision/link4.stl
+[0.102s] -- Up-to-date: /home/nithish/ROS/moveit2_ws/install/moveit2_description/share/moveit2_description/meshes/collision/camera.stl
+[0.102s] -- Up-to-date: /home/nithish/ROS/moveit2_ws/install/moveit2_description/share/moveit2_description/meshes/collision/link7.stl
+[0.102s] -- Up-to-date: /home/nithish/ROS/moveit2_ws/install/moveit2_description/share/moveit2_description/urdf
+[0.102s] -- Up-to-date: /home/nithish/ROS/moveit2_ws/install/moveit2_description/share/moveit2_description/urdf/panda.gazebo_ros2_control.xacro
+[0.102s] -- Up-to-date: /home/nithish/ROS/moveit2_ws/install/moveit2_description/share/moveit2_description/urdf/panda.urdf
+[0.102s] -- Up-to-date: /home/nithish/ROS/moveit2_ws/install/moveit2_description/share/moveit2_description/urdf/panda.urdf.xacro
+[0.102s] -- Up-to-date: /home/nithish/ROS/moveit2_ws/install/moveit2_description/share/moveit2_description/urdf/camera
+[0.102s] -- Up-to-date: /home/nithish/ROS/moveit2_ws/install/moveit2_description/share/moveit2_description/urdf/camera/camera.gazebo
+[0.102s] -- Up-to-date: /home/nithish/ROS/moveit2_ws/install/moveit2_description/share/moveit2_description/urdf/camera/camera.xacro
+[0.103s] -- Up-to-date: /home/nithish/ROS/moveit2_ws/install/moveit2_description/share/moveit2_description/urdf/initial_positions.yaml
+[0.103s] -- Up-to-date: /home/nithish/ROS/moveit2_ws/install/moveit2_description/share/moveit2_description/launch
+[0.103s] -- Up-to-date: /home/nithish/ROS/moveit2_ws/install/moveit2_description/share/moveit2_description/launch/rviz.launch.py
+[0.103s] -- Up-to-date: /home/nithish/ROS/moveit2_ws/install/moveit2_description/share/moveit2_description/launch/gazebo.launch.py
+[0.103s] -- Up-to-date: /home/nithish/ROS/moveit2_ws/install/moveit2_description/share/moveit2_description/worlds
+[0.103s] -- Up-to-date: /home/nithish/ROS/moveit2_ws/install/moveit2_description/share/moveit2_description/worlds/table
+[0.103s] -- Up-to-date: /home/nithish/ROS/moveit2_ws/install/moveit2_description/share/moveit2_description/worlds/table/model-1_4.sdf
+[0.103s] -- Up-to-date: /home/nithish/ROS/moveit2_ws/install/moveit2_description/share/moveit2_description/worlds/table/model.config
+[0.103s] -- Up-to-date: /home/nithish/ROS/moveit2_ws/install/moveit2_description/share/moveit2_description/worlds/table/model-1_2.sdf
+[0.103s] -- Up-to-date: /home/nithish/ROS/moveit2_ws/install/moveit2_description/share/moveit2_description/worlds/table/model-1_3.sdf
+[0.103s] -- Up-to-date: /home/nithish/ROS/moveit2_ws/install/moveit2_description/share/moveit2_description/worlds/table/model.sdf
+[0.104s] -- Up-to-date: /home/nithish/ROS/moveit2_ws/install/moveit2_description/share/moveit2_description/worlds/BRICK14
+[0.104s] -- Up-to-date: /home/nithish/ROS/moveit2_ws/install/moveit2_description/share/moveit2_description/worlds/BRICK14/meshes
+[0.104s] -- Up-to-date: /home/nithish/ROS/moveit2_ws/install/moveit2_description/share/moveit2_description/worlds/BRICK14/meshes/BRICK 1X4.STL
+[0.104s] -- Up-to-date: /home/nithish/ROS/moveit2_ws/install/moveit2_description/share/moveit2_description/worlds/BRICK14/meshes/BRICK14.stl
+[0.105s] -- Up-to-date: /home/nithish/ROS/moveit2_ws/install/moveit2_description/share/moveit2_description/worlds/BRICK14/model.config
+[0.105s] -- Up-to-date: /home/nithish/ROS/moveit2_ws/install/moveit2_description/share/moveit2_description/worlds/BRICK14/model.sdf
+[0.105s] -- Up-to-date: /home/nithish/ROS/moveit2_ws/install/moveit2_description/share/moveit2_description/worlds/BRICK12
+[0.105s] -- Up-to-date: /home/nithish/ROS/moveit2_ws/install/moveit2_description/share/moveit2_description/worlds/BRICK12/meshes
+[0.105s] -- Up-to-date: /home/nithish/ROS/moveit2_ws/install/moveit2_description/share/moveit2_description/worlds/BRICK12/meshes/BRICK12.stl
+[0.105s] -- Up-to-date: /home/nithish/ROS/moveit2_ws/install/moveit2_description/share/moveit2_description/worlds/BRICK12/model.config
+[0.105s] -- Up-to-date: /home/nithish/ROS/moveit2_ws/install/moveit2_description/share/moveit2_description/worlds/BRICK12/model.sdf
+[0.105s] -- Up-to-date: /home/nithish/ROS/moveit2_ws/install/moveit2_description/share/moveit2_description/worlds/gazebo_world.sdf
+[0.105s] -- Up-to-date: /home/nithish/ROS/moveit2_ws/install/moveit2_description/share/moveit2_description/worlds/BRICK23
+[0.105s] -- Up-to-date: /home/nithish/ROS/moveit2_ws/install/moveit2_description/share/moveit2_description/worlds/BRICK23/meshes
+[0.106s] -- Up-to-date: /home/nithish/ROS/moveit2_ws/install/moveit2_description/share/moveit2_description/worlds/BRICK23/meshes/BRICK23.stl
+[0.106s] -- Up-to-date: /home/nithish/ROS/moveit2_ws/install/moveit2_description/share/moveit2_description/worlds/BRICK23/meshes/BRICK 2X3.STL
+[0.106s] -- Up-to-date: /home/nithish/ROS/moveit2_ws/install/moveit2_description/share/moveit2_description/worlds/BRICK23/model.config
+[0.106s] -- Up-to-date: /home/nithish/ROS/moveit2_ws/install/moveit2_description/share/moveit2_description/worlds/BRICK23/model.sdf
+[0.106s] -- Up-to-date: /home/nithish/ROS/moveit2_ws/install/moveit2_description/share/moveit2_description/worlds/BRICK13
+[0.106s] -- Up-to-date: /home/nithish/ROS/moveit2_ws/install/moveit2_description/share/moveit2_description/worlds/BRICK13/meshes
+[0.106s] -- Up-to-date: /home/nithish/ROS/moveit2_ws/install/moveit2_description/share/moveit2_description/worlds/BRICK13/meshes/BRICK13.stl
+[0.106s] -- Up-to-date: /home/nithish/ROS/moveit2_ws/install/moveit2_description/share/moveit2_description/worlds/BRICK13/meshes/BRICK 1X3.STL
+[0.106s] -- Up-to-date: /home/nithish/ROS/moveit2_ws/install/moveit2_description/share/moveit2_description/worlds/BRICK13/model.config
+[0.107s] -- Installing: /home/nithish/ROS/moveit2_ws/install/moveit2_description/share/moveit2_description/worlds/BRICK13/model.sdf
+[0.107s] -- Up-to-date: /home/nithish/ROS/moveit2_ws/install/moveit2_description/share/moveit2_description/worlds/BRICK26
+[0.107s] -- Up-to-date: /home/nithish/ROS/moveit2_ws/install/moveit2_description/share/moveit2_description/worlds/BRICK26/meshes
+[0.107s] -- Up-to-date: /home/nithish/ROS/moveit2_ws/install/moveit2_description/share/moveit2_description/worlds/BRICK26/meshes/BRICK 2X6.STL
+[0.107s] -- Up-to-date: /home/nithish/ROS/moveit2_ws/install/moveit2_description/share/moveit2_description/worlds/BRICK26/meshes/BRICK26.stl
+[0.107s] -- Up-to-date: /home/nithish/ROS/moveit2_ws/install/moveit2_description/share/moveit2_description/worlds/BRICK26/model.config
+[0.107s] -- Up-to-date: /home/nithish/ROS/moveit2_ws/install/moveit2_description/share/moveit2_description/worlds/BRICK26/model.sdf
+[0.107s] -- Up-to-date: /home/nithish/ROS/moveit2_ws/install/moveit2_description/share/moveit2_description/worlds/camera
+[0.107s] -- Up-to-date: /home/nithish/ROS/moveit2_ws/install/moveit2_description/share/moveit2_description/worlds/camera/meshes
+[0.107s] -- Up-to-date: /home/nithish/ROS/moveit2_ws/install/moveit2_description/share/moveit2_description/worlds/camera/meshes/camera.dae
+[0.107s] -- Up-to-date: /home/nithish/ROS/moveit2_ws/install/moveit2_description/share/moveit2_description/worlds/camera/meshes/camera.stl
+[0.107s] -- Up-to-date: /home/nithish/ROS/moveit2_ws/install/moveit2_description/share/moveit2_description/worlds/camera/model.config
+[0.107s] -- Up-to-date: /home/nithish/ROS/moveit2_ws/install/moveit2_description/share/moveit2_description/worlds/camera/model.sdf
+[0.107s] -- Up-to-date: /home/nithish/ROS/moveit2_ws/install/moveit2_description/share/moveit2_description/worlds/BRICK16
+[0.107s] -- Up-to-date: /home/nithish/ROS/moveit2_ws/install/moveit2_description/share/moveit2_description/worlds/BRICK16/meshes
+[0.107s] -- Up-to-date: /home/nithish/ROS/moveit2_ws/install/moveit2_description/share/moveit2_description/worlds/BRICK16/meshes/BRICK16.stl
+[0.107s] -- Up-to-date: /home/nithish/ROS/moveit2_ws/install/moveit2_description/share/moveit2_description/worlds/BRICK16/meshes/BRICK 1X6.STL
+[0.108s] -- Up-to-date: /home/nithish/ROS/moveit2_ws/install/moveit2_description/share/moveit2_description/worlds/BRICK16/model.config
+[0.108s] -- Up-to-date: /home/nithish/ROS/moveit2_ws/install/moveit2_description/share/moveit2_description/worlds/BRICK16/model.sdf
+[0.108s] -- Up-to-date: /home/nithish/ROS/moveit2_ws/install/moveit2_description/share/moveit2_description/worlds/BRICK22
+[0.108s] -- Up-to-date: /home/nithish/ROS/moveit2_ws/install/moveit2_description/share/moveit2_description/worlds/BRICK22/meshes
+[0.108s] -- Up-to-date: /home/nithish/ROS/moveit2_ws/install/moveit2_description/share/moveit2_description/worlds/BRICK22/meshes/BRICK 2X2.STL
+[0.108s] -- Up-to-date: /home/nithish/ROS/moveit2_ws/install/moveit2_description/share/moveit2_description/worlds/BRICK22/meshes/BRICK22.stl
+[0.108s] -- Up-to-date: /home/nithish/ROS/moveit2_ws/install/moveit2_description/share/moveit2_description/worlds/BRICK22/meshes/LEGO-22-L.stl
+[0.108s] -- Up-to-date: /home/nithish/ROS/moveit2_ws/install/moveit2_description/share/moveit2_description/worlds/BRICK22/model.config
+[0.108s] -- Up-to-date: /home/nithish/ROS/moveit2_ws/install/moveit2_description/share/moveit2_description/worlds/BRICK22/model.sdf
+[0.108s] -- Up-to-date: /home/nithish/ROS/moveit2_ws/install/moveit2_description/share/moveit2_description/worlds/BRICK24
+[0.108s] -- Up-to-date: /home/nithish/ROS/moveit2_ws/install/moveit2_description/share/moveit2_description/worlds/BRICK24/meshes
+[0.108s] -- Up-to-date: /home/nithish/ROS/moveit2_ws/install/moveit2_description/share/moveit2_description/worlds/BRICK24/meshes/BRICK 2X4.STL
+[0.108s] -- Up-to-date: /home/nithish/ROS/moveit2_ws/install/moveit2_description/share/moveit2_description/worlds/BRICK24/meshes/BRICK24.stl
+[0.108s] -- Up-to-date: /home/nithish/ROS/moveit2_ws/install/moveit2_description/share/moveit2_description/worlds/BRICK24/model.config
+[0.108s] -- Up-to-date: /home/nithish/ROS/moveit2_ws/install/moveit2_description/share/moveit2_description/worlds/BRICK24/model.sdf
+[0.109s] -- Up-to-date: /home/nithish/ROS/moveit2_ws/install/moveit2_description/share/moveit2_description/config
+[0.109s] -- Up-to-date: /home/nithish/ROS/moveit2_ws/install/moveit2_description/share/moveit2_description/config/ros_gz_bridge.yaml
+[0.109s] -- Up-to-date: /home/nithish/ROS/moveit2_ws/install/moveit2_description/share/ament_index/resource_index/package_run_dependencies/moveit2_description
+[0.109s] -- Up-to-date: /home/nithish/ROS/moveit2_ws/install/moveit2_description/share/ament_index/resource_index/parent_prefix_path/moveit2_description
+[0.109s] -- Up-to-date: /home/nithish/ROS/moveit2_ws/install/moveit2_description/share/moveit2_description/environment/ament_prefix_path.sh
+[0.109s] -- Up-to-date: /home/nithish/ROS/moveit2_ws/install/moveit2_description/share/moveit2_description/environment/ament_prefix_path.dsv
+[0.109s] -- Up-to-date: /home/nithish/ROS/moveit2_ws/install/moveit2_description/share/moveit2_description/environment/path.sh
+[0.109s] -- Up-to-date: /home/nithish/ROS/moveit2_ws/install/moveit2_description/share/moveit2_description/environment/path.dsv
+[0.109s] -- Up-to-date: /home/nithish/ROS/moveit2_ws/install/moveit2_description/share/moveit2_description/local_setup.bash
+[0.109s] -- Up-to-date: /home/nithish/ROS/moveit2_ws/install/moveit2_description/share/moveit2_description/local_setup.sh
+[0.109s] -- Up-to-date: /home/nithish/ROS/moveit2_ws/install/moveit2_description/share/moveit2_description/local_setup.zsh
+[0.109s] -- Up-to-date: /home/nithish/ROS/moveit2_ws/install/moveit2_description/share/moveit2_description/local_setup.dsv
+[0.109s] -- Installing: /home/nithish/ROS/moveit2_ws/install/moveit2_description/share/moveit2_description/package.dsv
+[0.110s] -- Up-to-date: /home/nithish/ROS/moveit2_ws/install/moveit2_description/share/ament_index/resource_index/packages/moveit2_description
+[0.111s] -- Up-to-date: /home/nithish/ROS/moveit2_ws/install/moveit2_description/share/moveit2_description/cmake/moveit2_descriptionConfig.cmake
+[0.111s] -- Up-to-date: /home/nithish/ROS/moveit2_ws/install/moveit2_description/share/moveit2_description/cmake/moveit2_descriptionConfig-version.cmake
+[0.111s] -- Up-to-date: /home/nithish/ROS/moveit2_ws/install/moveit2_description/share/moveit2_description/package.xml
+[0.143s] Invoked command in '/home/nithish/ROS/moveit2_ws/build/moveit2_description' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/jazzy DEBUGINFOD_URLS=https://debuginfod.ubuntu.com /usr/bin/cmake --install /home/nithish/ROS/moveit2_ws/build/moveit2_description
